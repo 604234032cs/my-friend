@@ -4,7 +4,7 @@
    
  { 
 
-	"studentID": "574234040",
+	"studentid": "574234040",
      
  	"firstName": "Khadafee",
       
@@ -26,7 +26,7 @@
    
 
  { 
-	"birthday": "604234004",
+	"studentid": "604234004",
 
      	"firstName": "Jiwaree ",
 
@@ -46,7 +46,7 @@
 
 
  { 
-	"studentID": "604234019",
+	"studentid": "604234019",
  
      	"firstName": " Rohanee",
      
@@ -65,7 +65,7 @@
  }
 ,  
 { 
-	"studentID": "604234032",
+	"studentid": "604234032",
  
      	"firstName": "Hafisah",
      
