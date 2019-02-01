@@ -6,11 +6,11 @@
 
 	"studentid": "574234040",
      
- 	"firstName": "Khadafee",
+ 	"firstname": "Khadafee",
       
-	"lastName": "Sereeyadee",
+	"lastname": "Sereeyadee",
       
-	"nickName": "Fee",
+	"nickname": "Fee",
       
 	"major": "ComputerScience",
       
@@ -28,11 +28,11 @@
  { 
 	"studentid": "604234004",
 
-     	"firstName": "Jiwaree ",
+     	"firstname": "Jiwaree ",
 
-      	"lastName": "Rodneom",
+      	"lastname": "Rodneom",
       
-	"nickName": "Muna",
+	"nickname": "Muna",
       
 	"major": "ComputerScience",
     
@@ -48,11 +48,11 @@
  { 
 	"studentid": "604234019",
  
-     	"firstName": " Rohanee",
+     	"firstname": " Rohanee",
      
- 	"lastName": "Samoot",
+ 	"lastname": "Samoot",
       
-	"nickName": "Nee",
+	"nickname": "Nee",
       
 	"major": "ComputerScience",
      
@@ -67,11 +67,11 @@
 { 
 	"studentid": "604234032",
  
-     	"firstName": "Hafisah",
+     	"firstname": "Hafisah",
      
- 	"lastName": "Harong",
+ 	"lastname": "Harong",
       
-	"nickName": "Feejah",
+	"nickname": "Feejah",
       
 	"major": "ComputerScience",
      
